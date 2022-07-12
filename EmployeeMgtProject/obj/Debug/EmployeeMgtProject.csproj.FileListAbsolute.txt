@@ -1,0 +1,153 @@
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\EmployeeMgtProject.dll.config
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\EmployeeMgtProject.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\EmployeeMgtProject.pdb
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csc.exe
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csc.exe.config
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csc.rsp
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csi.exe
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csi.rsp
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.AppContext.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.Collections.Immutable.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.IO.FileSystem.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\vbc.exe
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\vbc.exe.config
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\vbc.rsp
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\VBCSCompiler.exe
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\VBCSCompiler.exe.config
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Antlr3.Runtime.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\AspNet.ScriptManager.bootstrap.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\AspNet.ScriptManager.jQuery.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.ScriptManager.WebForms.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.Web.Infrastructure.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Newtonsoft.Json.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\System.Web.Optimization.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\WebGrease.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\System.Web.Optimization.xml
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Newtonsoft.Json.xml
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Antlr3.Runtime.pdb
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.csprojAssemblyReference.cache
+E:\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.csproj.CoreCompileInputs.cache
+E:\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.csproj.CopyComplete
+E:\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.dll
+E:\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.pdb
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\EmployeeMgtProject.dll.config
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\EmployeeMgtProject.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\EmployeeMgtProject.pdb
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csc.exe
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csc.exe.config
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csc.rsp
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csi.exe
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csi.rsp
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.AppContext.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.Collections.Immutable.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.IO.FileSystem.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.Reflection.Metadata.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\vbc.exe
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\vbc.exe.config
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\vbc.rsp
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\VBCSCompiler.exe
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\VBCSCompiler.exe.config
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Antlr3.Runtime.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\AspNet.ScriptManager.bootstrap.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\AspNet.ScriptManager.jQuery.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.ScriptManager.MSAjax.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.ScriptManager.WebForms.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.Web.Infrastructure.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Newtonsoft.Json.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\System.Web.Optimization.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\WebGrease.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\System.Web.Optimization.xml
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Newtonsoft.Json.xml
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Antlr3.Runtime.pdb
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.csprojAssemblyReference.cache
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.csproj.CoreCompileInputs.cache
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.csproj.CopyComplete
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.dll
+S:\PCS working Practice\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.pdb
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\EmployeeMgtProject.dll.config
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\EmployeeMgtProject.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\EmployeeMgtProject.pdb
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csc.exe
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csc.exe.config
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csc.rsp
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csi.exe
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\csi.rsp
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.AppContext.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.Collections.Immutable.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.IO.FileSystem.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\System.Reflection.Metadata.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\vbc.exe
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\vbc.exe.config
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\vbc.rsp
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\VBCSCompiler.exe
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\roslyn\VBCSCompiler.exe.config
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Antlr3.Runtime.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\AspNet.ScriptManager.bootstrap.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\AspNet.ScriptManager.jQuery.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.ScriptManager.WebForms.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.Web.Infrastructure.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Newtonsoft.Json.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\System.Web.Optimization.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\WebGrease.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\System.Web.Optimization.xml
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Newtonsoft.Json.xml
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Antlr3.Runtime.pdb
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.csproj.CoreCompileInputs.cache
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.csproj.CopyComplete
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.dll
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.pdb
+F:\CRUD Sucess Project\Knockout CRUd\EmployeeMgtProject\EmployeeMgtProject\obj\Debug\EmployeeMgtProject.csproj.AssemblyReference.cache
